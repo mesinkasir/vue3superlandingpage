@@ -1,8 +1,8 @@
-# vuejs super landing page
+# vue 3 super landing page
 
-Build with bulma and vue
+Build with bulma and vue 3
 
-Super landing page website themes template
+Super landing page website themes template vue3
 
 Demo : [https://mesinkasironline.now.sh/](https://mesinkasironline.now.sh/)
 
