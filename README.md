@@ -1,8 +1,15 @@
-# vue 3 super landing page
+# vuejs super landing page
 
-Build with bulma and vue 3
+Build with bulma and vue
 
 Super landing page website themes template
+
+Demo : [https://mesinkasironline.now.sh/](https://mesinkasironline.now.sh/)
+
+Documentation and live source code you can edit live on source code online editor in here
+[https://www.hockeycomputindo.com/2021/02/super-landing-page-bulma-vue-themes.html](https://www.hockeycomputindo.com/2021/02/super-landing-page-bulma-vue-themes.html)
+
+[Play Video demo](https://youtu.be/uQ3F6R4UtvQ)
 
 ![free vue template themes landing page](https://1.bp.blogspot.com/-01B1DhoGVIo/YCUvSvSickI/AAAAAAAAM0U/ZyyNC82Htr8nj4z5jew0UepmtpBNUrZRgCLcBGAsYHQ/s2682/vuelandingpage%2B%25285%2529.png)
 
@@ -51,3 +58,11 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Demo : [https://mesinkasironline.now.sh/](https://mesinkasironline.now.sh/)
+
+Documentation and live source code you can edit live on source code online editor in here
+[https://www.hockeycomputindo.com/2021/02/super-landing-page-bulma-vue-themes.html](https://www.hockeycomputindo.com/2021/02/super-landing-page-bulma-vue-themes.html)
+
+[Play Video demo](https://youtu.be/uQ3F6R4UtvQ)
