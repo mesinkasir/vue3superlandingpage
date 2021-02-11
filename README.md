@@ -2,6 +2,8 @@
 
 Build with bulma and vue 3
 
+If you need build using vue 2 download here [https://github.com/mesinkasir/vuesuperlandingpage](https://github.com/mesinkasir/vuesuperlandingpage)
+
 Super landing page website themes template vue3
 
 Demo : [https://mesinkasironline.now.sh/](https://mesinkasironline.now.sh/)
